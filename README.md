@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Gabriel ( Gabby ) Lulu and I'm currently a senior at the University of Pittsburgh, majoring in Computer Science and minoring in Economics. 
+This is my GitHub. Sadly it's not comprehensive yet because the university prohibits me from publishing certain projects until I graduate. 
+I'm currently looking for work as a software developer and anything of the like. I'd also love to collaborate on a project if anyone has ideas. 
+
+### How to reach me
+Please feel free to email me: glulu4444@gmail.com
+Leave a message on my website: https://gabbylulu.com/
+
 <!--
 **glulu4/glulu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
