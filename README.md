@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 My name is Gabriel ( Gabby ) Lulu and I recently graduted from the University of Pittsburgh with a B.S in Computer Science.
 This is my GitHub 😄. 
